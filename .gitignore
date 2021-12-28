@@ -1,0 +1,9 @@
+# ignore video & image file
+*.mp4
+*.zip
+*.avi
+
+# ignore don't need folder
+img_augmentation/save
+img_augmentation/image/*
+img_augmentation/video/*
