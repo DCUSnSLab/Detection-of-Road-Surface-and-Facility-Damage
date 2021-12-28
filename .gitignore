@@ -3,7 +3,10 @@
 *.zip
 *.avi
 
-# ignore don't need folder
+# ignore folder
 img_augmentation/save
 img_augmentation/image/*
 img_augmentation/video/*
+
+!img_augmentation/image/.keep
+!img_augmentation/video/.keep
